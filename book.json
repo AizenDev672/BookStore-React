@@ -1,0 +1,203 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "El señor de los anillos",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasia",
+      "numPages": 1248,
+      "photo": "https://images.cdn1.buscalibre.com/fit-in/360x360/35/2e/352e63af40b5cc4eada5cee03da49412.jpg",
+      "description": "La historia de un hobbit llamado Frodo que se embarca en una búsqueda para destruir el Anillo Único, una poderosa arma creada por el Señor Oscuro Sauron."
+    },
+    {
+      "id": 2,
+      "title": "La historia interminable",
+      "author": "Michael Ende",
+      "genre": "Fantasia",
+      "numPages": 368,
+      "photo": "https://www.loqueleo.com/ar/uploads/2017/07/tapa-la-historia-interminable.jpg",
+      "description": "La historia de un niño llamado Bastian Balthazar Bux que encuentra un libro mágico que lo transporta a un mundo de fantasía llamado Fantasía."
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter la piedra filosofal",
+      "author": "J.K. Rowling",
+      "genre": "Fantasia",
+      "numPages": 352,
+      "photo": "https://pekeleke.es/wp-content/uploads/2020/11/harry-potter-piedra-filosofal-minalima-portada.jpg",
+      "description": "La historia de un niño huérfano llamado Harry Potter que descubre que es un mago y que ha sido aceptado en la Escuela de Magia y Hechicería de Hogwarts."
+    },
+    {
+      "id": 4,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Ciencia ficcion",
+      "numPagse": 610,
+      "photo": "https://images.cdn1.buscalibre.com/fit-in/360x360/86/9f/869fa8cf3c087c954b6a3b7293c31469.jpg",
+      "description": "La historia de Paul Atreides, un joven que se convierte en el mesías de un planeta desértico llamado Arrakis."
+    },
+    {
+      "id": 5,
+      "title": "La guerra de los mundos",
+      "author": "H.G. Wells",
+      "genre": "Ciencia ficcion",
+      "numPages": 300,
+      "photo": "https://contentv2.tap-commerce.com/cover/large/9789563164411_1.jpg?id_com=1113",
+      "descriprion": "La historia de una invasión extraterrestre a la Tierra."
+    },
+    {
+      "id": 6,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Ciencia ficcion",
+      "numPages": 328,
+      "photo": "https://s3.amazonaws.com/adg-bucket/1984-george-orwell/3423-medium.jpg",
+      "description": "La historia de un hombre que lucha contra un gobierno totalitario."
+    },
+    {
+      "id": 7,
+      "title": "Un mundo feliz",
+      "author": "Aldous Huxley",
+      "genre": "Ciencia ficcion",
+      "numPages": 266,
+      "photo": "https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_820/v1515287702/content-items/002/207/866/portada_final%2528web_plano%2529-original.jpg?1515287702",
+      "description": "La historia de una sociedad utópica en la que los humanos son clonados y programados para ser felices."
+    },
+    {
+      "id": 8,
+      "title": "La guía del autoestopista galáctico",
+      "author": "Douglas Adams",
+      "genre": "Ciencia ficcion",
+      "numPages": 192,
+      "photo": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2010/4/w1280/wSV3iuaG6Ot6aUqQCqOHFyDQRMB.jpg",
+      "descriprion":"La historia de un hombre que se embarca en un viaje intergaláctico con un grupo de alienígenas."
+    },
+    {
+
+      "id": 9,
+      "title": "Orgullo y prejucio",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "numPages": 272,
+      "photo": "https://www.tebeosfera.com/T3content/img/T3_numeros/j/l/81oj5vsj1jl.jpg",
+      "descriprion":"La historia de dos hermanas,Elizabeth y Jane Bennet, que se enamoran de dos hombres, Fitzwilliam Darcy y Charles Bingley."
+    },
+    {
+      "id": 10,
+      "title": "Romeo y Julieta",
+      "author": "William Shakespeare",
+      "genre": "Romance",
+      "numPages": 15000,
+      "photo": "https://images.cdn2.buscalibre.com/fit-in/360x360/27/e9/27e92f0d8b351aef49730410ab4da17d.jpg",
+      "descriprion":"La historia de dos jóvenes enamorados que se ven obligados a casarse con otras personas."
+    },
+    {
+      "id": 11,
+      "title": "Cumbres borrascosas",
+      "author": "Emily Brontë",
+      "genre": "Romance",
+      "numPages": 390,
+      "photo": "https://images.cdn2.buscalibre.com/fit-in/360x360/82/25/822547e547961fe8fdc28f0064e5d549.jpg",
+      "descriprion":"La historia de dos amantes, Catherine Earnshaw y Heathcliff, que se separan trágicamente."
+    },
+    {
+      "id": 12,
+      "title": "El nombre del viento",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasia",
+      "numPages": 976,
+      "photo": "https://images.cdn3.buscalibre.com/fit-in/360x360/a7/90/a790dff70defe5c61b66fd73716b6e30.jpg",
+      "descriprion": "La historia de Kvothe, un joven músico y mago que relata su historia a un cronista."
+    },
+    {
+      "id": 13,
+      "title": "La rueda del tiempo",
+      "author": "Robert Jordan",
+      "genre": "Fantasia",
+      "numPages": 14225,
+      "photo": "https://www.planetadelibros.com.co/usuaris/libros/fotos/331/m_libros/330658_portada_el-ojo-del-mundo-n-0114_robert-jordan_201910151031.jpg",
+      "descriprion": "La historia de Rand al'Thor, un joven que está destinado a salvar el mundo de la oscuridad."
+    },
+    {
+      "id": 14,
+      "title": "Canción de hielo y fuego",
+      "author": "George R. R. Martin",
+      "genre": "Fantasia",
+      "numPages": 2500,
+      "photo": "https://images.cdn1.buscalibre.com/fit-in/360x360/69/5b/695b0830dd6fb907b7ae97a127d0bbc2.jpg",
+      "description": "Un grupo de personajes se ven envueltos en una guerra por el control de los Siete Reinos de Westeros."
+    },
+    {
+      "id": 15,
+      "title": "El castillo ambulante",
+      "author": "Diana Wynne Jones",
+      "genre": "Fantasia",
+      "numPages": 352,
+      "photo": "https://cdn.agapea.com/Nocturna-Ediciones/El-castillo-en-el-aire-i7n17434680.jpg",
+      "description": "Una niña se muda a un castillo que camina y se enamora de un mago."
+    },
+    {
+      "id": 16,
+      "title": "Elantris",
+      "author": "Brandon Sanderson",
+      "genre": "Fantasia",
+      "numPages": 544,
+      "photo": "https://images.cdn3.buscalibre.com/fit-in/360x360/97/3d/973d1acbac34bf01e88f745e6f30fa39.jpg",
+      "description": "Una ciudad mágica se convierte en una tierra desolada y un hombre busca descubrir cómo restaurarla."
+    },
+    {
+      "id": 17,
+      "title": "A Fire Upon the Deep (1992)",
+      "author": "Vernor Vinge",
+      "genre": "Ciencia ficcion",
+      "numPages": 480,
+      "photo": "https://m.media-amazon.com/images/I/81ZqTi-O0NL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Una historia de dos niños que descubren una nueva ley de la física que permite la comunicación instantánea a través de grandes distancias."
+    },
+    {
+      "id": 18,
+      "title": "The Left Hand of Darkness (1969)",
+      "author": "Ursula K. Le Guin",
+      "genre": "Ciencia ficcion",
+      "numPages": 256,
+      "photo": "https://pictures.abebooks.com/inventory/13294533527.jpg",
+      "description": "En un planeta donde todos los habitantes son hermafroditas, un embajador humano debe negociar un tratado de paz. "
+    },
+    {
+      "id": 19,
+      "title": "The Mote in God's Eye (1974)",
+      "author": "Larry Niven y Jerry Pournelle",
+      "genre": "Ciencia ficcion",
+      "numPages": 352,
+      "photo": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9780671741921_9780671741921_hr.jpg",
+      "description": "Una nave espacial humana descubre un mundo alienígena que podría representar una amenaza para la humanidad."
+    },
+    {
+      "id": 20,
+      "title": "The Dispossessed (1974)",
+      "author": "Ursula K. Le Guin",
+      "genre": "Ciencia ficcion",
+      "numPages": 240,
+      "photo": "https://images.cdn3.buscalibre.com/fit-in/360x360/b3/60/b3609814b2b8ccea4ca2423c502dabc3.jpg",
+      "description": "Una historia de dos amigos que se separan por sus ideales políticos, uno de los cuales vive en una utopía anarquista y el otro en una sociedad capitalista."
+    },
+    {
+      "id": 21,
+      "title": "Rendezvous with Rama (1973)",
+      "author": "Arthur C. Clarke",
+      "genre": "Ciencia ficcion",
+      "numPages": 224,
+      "photo": "https://images.cdn2.buscalibre.com/fit-in/360x360/c9/13/c9137dbf4d3177e181215c78f6b6c50a.jpg",
+      "description": "Una nave espacial alienígena del tamaño de una ciudad entra en el sistema solar de la Tierra."
+    },
+    {
+      "id": 22,
+      "title": "The Sparrow (1996)",
+      "author": "Mary Doria Russell ",
+      "genre": "Ciencia ficcion",
+      "numPages": 384,
+      "photo": "https://images.cdn2.buscalibre.com/fit-in/360x360/e2/75/e27550091dec3f9983eec28ca083473e.jpg",
+      "description": "Una misión religiosa viaja a un planeta alienígena para convertir a sus habitantes."
+    }
+  ]
+}
