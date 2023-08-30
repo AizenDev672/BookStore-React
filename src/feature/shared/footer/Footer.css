@@ -1,0 +1,26 @@
+.footer {
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px;
+    left: 16px;
+    bottom: 16px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .7);
+    padding: 8px 24px;
+    opacity: .95;
+    backdrop-filter: blur(8px);
+}
+
+
+.footer span{
+    font-size: 14px;
+    color: #09f;
+    opacity: .8;
+    margin: 0;
+    display: flex;
+}
+
+.footer h4, .footer h5 {
+    margin: 0;
+    display: flex;
+}
